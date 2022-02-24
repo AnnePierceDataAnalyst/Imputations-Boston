@@ -9,4 +9,4 @@ J'ai décidé de mener une petite expérience sur le célèbre Boston Housing Pr
 
 - Imputation par interpolation linéaire (méthode absurde dans le cas présent)
 
-- Suppression des lignes incomplètes
+- Suppression des lignes incomplètes (20% du total !!)
